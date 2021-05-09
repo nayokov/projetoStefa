@@ -1,0 +1,22 @@
+{
+  "ALUNO": [],
+  "CURSO": [],
+  "USUARIO": [
+    {
+      "nome": "Professor 1",
+      "email": "prof1@email.com",
+      "senha": "$2a$08$hUj.5XlqNyThl3VNEPutuOlIUr3E679N2kknERMGeR6mMOi5awmCi",
+      "tipo": 1,
+      "id": 1
+    },
+    {
+      "nome": "Aluno 1",
+      "formacao": "Sistema de Informacao",
+      "idade": 20,
+      "email": "aluno1@email.com",
+      "senha": "$2a$08$w0r2zw5Barew36ok7JApwORJp4pyE/1UVI4y3DwpabRHx8xhkKwhG",
+      "tipo": 2,
+      "id": 2
+    }
+  ]
+}
